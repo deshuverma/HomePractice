@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvtjnIoZp0dp2OPkWA5+Rl3i2RxAmY70P+IHViCBnjWzAk/4TYZ/UlLewSpbHKH+i3u9mkYUF4uRDbWKRK8A5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deshv\\source\\repos\\HomePractice\\HomePractice\\HomePractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deshv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\deshv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\deshv\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\deshv\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\deshv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\deshv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
